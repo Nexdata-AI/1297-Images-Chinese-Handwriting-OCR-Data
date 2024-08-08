@@ -3,7 +3,7 @@
 ## Description
 1,297 Images – Chinese Handwriting OCR Data. The writing environment includes A4 paper, square paper, lined paper, white board, color note, etc. The writing contents include poetry, prose, store activity notices, greetings, wish lists, excerpts, etc. The data diversity includes multiple writing papers, multiple fonts, multiple writing contents, multiple photographic angles. The collecting angeles are looking up angle and eye-level angle. The dataset can be used for tasks such as Chinese handwriting OCR.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1333?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/ocr/1333?source=Github
 
 
 ## Data size
